@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jogo da Advinhação</string>
+    <string name="titulo">Bem vindo ao jogo de Adivinhação!</string>
+    <string name="dificuldade">Escolha o nível de dificuldade:</string>
+    <string name="comecar">Começar</string>
+    <string name="texto_escolha">Escolha um número de 0 a 100</string>
+    <string name="chute">Chute</string>
+    <string name="dif_cil">Difícil</string>
+    <string name="m_dio">Médio</string>
+    <string name="f_cil">Fácil</string>
+    <string name="recomecar">Recomeçar</string>
+    <string name="acertou">Parabéns você acertou!!</string>
+    <string name="perdeu">Que pena! Você perdeu! Tente novamente</string>
+    <string name="pontos">Pontos</string>
+    <string name="sua_pontu_o">Sua pontução foi de:</string>
+    <string name="tituloSplash">Jogo da Adivinhação!</string>
+</resources>
